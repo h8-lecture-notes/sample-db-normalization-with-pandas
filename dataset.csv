@@ -1,4 +1,4 @@
-StudentID, Name, Courses, Instructor, InstructorEmail, Grades
-1, Alice, Math|Science|History, Dr. Brown|Dr. Smith|Dr. Clark, brown@example.com|smith@example.com|clark@example.com, A|B|A
-2, Bob, Math|History, Dr. Brown|Dr. Clark, brown@example.com|clark@example.com, B|C
-3, Charlie, Science|History, Dr. Smith|Dr. Clark, smith@example.com|clark@example.com, A|B
+StudentID,Name,Courses,Instructor,InstructorEmail,Grades
+1,Alice,Math|Science|History,Dr. Brown|Dr. Smith|Dr. Clark,brown@example.com|smith@example.com|clark@example.com,A|B|A
+2,Bob,Math|History,Dr. Brown|Dr. Clark,brown@example.com|clark@example.com,B|C
+3,Charlie,Science|History,Dr. Smith|Dr. Clark,smith@example.com|clark@example.com,A|B
