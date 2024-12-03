@@ -1,3 +1,3 @@
-# Pandas Normalization Exercise
+# Database Normalization with Pandas
 
-This repo is used to demonstrate the implementation of normalization using pandas libary.
+This repo is used to demonstrate the implementation of Database Normalization using Pandas library in Python.
